@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="40" fill="#1a3c5e"/>
+  <rect width="192" height="192" rx="40" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="192" y2="192" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a3c5e"/>
+      <stop offset="100%" stop-color="#2d6a9f"/>
+    </linearGradient>
+  </defs>
+  <!-- House -->
+  <path d="M96 38 L148 80 L148 154 L44 154 L44 80 Z" fill="none" stroke="white" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M80 154 L80 110 L112 110 L112 154" fill="white" opacity="0.9"/>
+  <path d="M70 80 L96 58 L122 80" fill="none" stroke="#f59e0b" stroke-width="7" stroke-linejoin="round"/>
+  <!-- Roof line accent -->
+  <line x1="44" y1="80" x2="148" y2="80" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+</svg>
